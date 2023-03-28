@@ -1,5 +1,2 @@
-import yaml
-import tweepy
-import discord
-
-
+if __name__ == '__main__':
+    pass
